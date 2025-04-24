@@ -20,15 +20,15 @@ var APP_DATA = {
       ],
       "faceSize": 896,
       "initialViewParameters": {
-        "yaw": -3.104373354381316,
-        "pitch": 0.03660693905782608,
+        "yaw": 3.121360429884332,
+        "pitch": -0.11194914344481433,
         "fov": 1.2599180821480807
       },
       "linkHotspots": [],
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "大門",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
