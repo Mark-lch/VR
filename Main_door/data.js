@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-pano_20250419_163116_5",
-      "name": "PANO_20250419_163116_5",
+      "id": "0-",
+      "name": "大門",
       "levels": [
         {
           "tileSize": 256,
@@ -20,15 +20,15 @@ var APP_DATA = {
       ],
       "faceSize": 896,
       "initialViewParameters": {
-        "yaw": 3.121360429884332,
-        "pitch": -0.11194914344481433,
+        "yaw": -3.1124747853910293,
+        "pitch": -0.14792837092624822,
         "fov": 1.2599180821480807
       },
       "linkHotspots": [],
       "infoHotspots": []
     }
   ],
-  "name": "大門",
+  "name": "入口",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
